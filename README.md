@@ -13,4 +13,5 @@ and for flashing the STM32F4Discovery board run:
 The default toolchain is the same of libopencm3, an arm-none-eabi/arm-elf toolchain.
 
 **TODO**
+
 Implement functions to use electrodes as GPIO and to configure electrodes parameters on init.
